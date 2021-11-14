@@ -1,5 +1,5 @@
 {
-    "repository": "",
+    "repository": "https://github.com/yorkerjac529835/webtony",
     "stack": "container",
 	"env": {
       "APP_NAME" : {
